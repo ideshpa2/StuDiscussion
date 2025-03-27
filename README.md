@@ -30,14 +30,7 @@ This project is part of CSE360's Individual Homework 3 assignment and focuses on
 
 ---
 
-## 3. GitHub Repository
-
-- [GitHub Repo](https://github.com/ideshpa2/CSE360_Individual-HW)  
-- Navigate to the `hw3` branch → `src` → `hw3TestCases`
-
----
-
-## 4. Javadoc Resources
+## 2. Javadoc Resources
 
 - [Google Java Style Guide - Javadoc](https://google.github.io/styleguide/javaguide.html#s7-javadoc)  
 - [Java Collections Source - DocJar (Archived)](https://web.archive.org/web/20190325071840/http://www.docjar.net/html/api/java/util/Collections.java.html)
@@ -47,7 +40,7 @@ This project is part of CSE360's Individual Homework 3 assignment and focuses on
 
 ---
 
-## 5. Screencast Submission
+## 3. Screencast Submission
 -  Screencast embedded in this `README.md` and available via Zoom:
 - [Watch Screencast](https://asu.zoom.us/rec/share/qUoNGlZYP7i-2l0WXTGDeHlT4yp3LUcQCScDevhbBcmBwF4OYsMWEb8eBIpvE72N.marT8GkyCNEHHLb0)
 - Passcode: `4te?B!P@`
