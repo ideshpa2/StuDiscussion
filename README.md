@@ -14,11 +14,11 @@ This project is part of CSE360's Individual Homework 3 assignment and focuses on
 
 ### 2. `DeleteAnswerQuestionTestPage`
 **Purpose**: Tests the lifecycle of inserting and then deleting a question and its associated answer.  
-**Key Actions**: Registers a user, adds question and answer, deletes both, ensures successful cleanup.
+**Key Actions**: Registers a user, adds question and answer, deletes both, and ensures successful cleanup.
 
 ### 3. `UpdateAnswerQuestionTestPage`
 **Purpose**: Verifies that questions and answers can be updated in the database.  
-**Key Actions**: Inserts a test question and answer, updates both, confirms updated content.
+**Key Actions**: Inserts a test question and answer, updates both, and confirms updated content.
 
 ### 4. `ReadAnswerQuestionTestPage`
 **Purpose**: Confirms that questions and answers are correctly retrieved by ID.  
@@ -42,7 +42,7 @@ This project is part of CSE360's Individual Homework 3 assignment and focuses on
 - [Google Java Style Guide - Javadoc](https://google.github.io/styleguide/javaguide.html#s7-javadoc)  
 - [Java Collections Source - DocJar (Archived)](https://web.archive.org/web/20190325071840/http://www.docjar.net/html/api/java/util/Collections.java.html)
 
-> The Javadoc HTML output is available in the GitHub repo under the HW3 branch:
+> The Javadoc HTML output is available in this GitHub repo within the Javadoc HW3 Documentation pdf file: 
 > [Javadoc HW3 Documentation.pdf](https://github.com/ideshpa2/CSE360_Individual-HW/blob/hw3/Javadoc%20HW3%20Documentation.pdf)
 
 ---
