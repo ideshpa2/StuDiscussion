@@ -10,7 +10,7 @@ User Story 5: As a staff member, I am able to direct message an instructor regar
 
 _______
 
-Link to Javadoc: 
+Link to Javadoc: HW4/doc/index.html
 
 Link to Junit: 
 
