@@ -10,11 +10,19 @@ User Story 5: As a staff member, I am able to direct message an instructor regar
 
 _______
 
-Link to Javadoc: [https://github.com/ideshpa2/CSE360_Individual-HW/doc/index.html](https://github.com/ideshpa2/CSE360_Individual-HW/blob/main/HW4/doc/index.html)
+Link to Javadoc: 
 
-Link to Junit: https://github.com/ideshpa2/CSE360_Individual-HW/blob/main/HW4/src/application/StaffHomePageTestPage.java
+https://github.com/ideshpa2/CSE360_Individual-HW/blob/main/StaffHomePageJavadoc.pdf
+
+[https://github.com/ideshpa2/CSE360_Individual-HW/doc/index.html](https://github.com/ideshpa2/CSE360_Individual-HW/blob/main/HW4/doc/index.html)
+
+Link to Junit: 
+
+https://github.com/ideshpa2/CSE360_Individual-HW/blob/main/HW4/src/application/StaffHomePageTestPage.java 
 
 _______
 
-Link to Screencast: https://asu.zoom.us/rec/share/7_YGHE5ytldcuAsgCUVt17XbITZj0TsFrfegZODPxG1fXCKTV8QNbNXp_1TvuEKj.Zio9MVqky16Ls5Jm
+Link to Screencast: 
+
+https://asu.zoom.us/rec/share/7_YGHE5ytldcuAsgCUVt17XbITZj0TsFrfegZODPxG1fXCKTV8QNbNXp_1TvuEKj.Zio9MVqky16Ls5Jm
 Passcode: B@U@i0HL
