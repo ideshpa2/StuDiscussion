@@ -10,7 +10,7 @@ User Story 5: As a staff member, I am able to direct message an instructor regar
 
 _______
 
-Link to Javadoc: https://github.com/ideshpa2/CSE360_Individual-HW/doc/index.html
+Link to Javadoc: [https://github.com/ideshpa2/CSE360_Individual-HW/doc/index.html](https://github.com/ideshpa2/CSE360_Individual-HW/blob/main/HW4/doc/index.html)
 
 Link to Junit: 
 
