@@ -1,12 +1,68 @@
-User Story 1: As a staff member, I am able to delete inappropriate answers and reviews after reviewing 
+# Instructions for Accessing Items
 
-User Story 2: As a staff member, I am able to revoke reviewer access after flagging too many inappropriate
+Source Code: Available in the repository’s src folder.
 
-User Story 3: As a staff member, I am able to create a list of reviewers that must be moderated because they are on probation for too many inappropriate reviews 
+Automated Tests: Available in the repository’s src folder
 
-User Story 4: As a staff member, I am able to direct message reviewers and students and give them an idea of what is inappropriate about review/answer 
+# List of Files and Descriptions
 
-User Story 5: As a staff member, I am able to direct message an instructor regarding larger issues such as targeted harassment/academic dishonesty/mass spreads of misinformation 
+Application Source Code: 
+
+- AdminHomePage.java - Manages the homepage functionalities for administrators, including user and role management.
+
+- AdminSetupPage.java - Handles administrator account setup and configuration options.
+
+- AssignRolesPage.java - Provides functionality for assigning user roles within the system.
+
+- ChangePasswordPage.java - Enables users to change their password securely.
+
+- FirstPage.java - The initial landing page when the application starts.
+
+- InstructorHomePage.java - Manages the homepage for instructors, allowing them to manage students and review submissions.
+
+- InvitationCodeTestPage.java - Automated test cases for validating invitation code functionality.
+
+- InvitationPage.java - Allows users to enter an invitation code to register.
+
+- OneTimeRoleTestPage.java - Tests the implementation of one-time password roles in authentication.
+
+- PasswordEvaluator.java - Validates passwords based on predefined security criteria.
+
+- ReviewerHomePage.java - Manages the homepage for reviewers, allowing access to assigned submissions.
+
+- SetupAccountPage.java - Handles new user account creation and initial setup.
+
+- SetupLoginSelectionPage.java - Provides a selection menu for users to log in using different authentication methods.
+
+- StaffHomePage.java - The homepage for staff members, providing options to manage internal operations.
+
+- StudentHomePage.java - The student homepage for questions and answers
+
+- User.java - The user model class, defining attributes such as username, password, email, and roles.
+
+- UserHomePage.java - The homepage for general users, displaying available system functionalities.
+
+- UserListPage.java - Retrieves and displays a list of all registered users.
+
+- UserListTestPage.java - Automated test cases for verifying user retrieval functionalities.
+
+- UserLoginPage.java - Handles user authentication via username and password.
+
+- UserNameRecognizer.java - A helper class for validating and processing usernames.
+
+- UserRoleTestPage.java - Automated test cases for verifying role assignments and access control.
+
+- WelcomeLoginPage.java - The initial login screen prompting users to enter their credentials.
+
+- adminDeletePage.java - Provides an interface for administrators to delete users.
+
+- adminDeleteTestPage.java - Automated test cases for verifying user deletion functionality.
+
+Additional Deliverables in the Repository
+
+databaseHelper Source Code: 
+
+- databaseHelper.java - SQL repository that stored all of the necessary data within tables and allowed us to get and retrieve this data whenever necessary
 
 _______
 
