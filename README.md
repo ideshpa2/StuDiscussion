@@ -62,15 +62,3 @@ databaseHelper Source Code:
 
 - databaseHelper.java - SQL repository that stored all of the necessary data within tables and allowed us to get and retrieve this data whenever necessary
 
-_______
-
-Link to Javadoc: 
-
-https://github.com/ideshpa2/CSE360_Individual-HW/blob/main/StaffHomePageJavadoc.pdf
-
-[https://github.com/ideshpa2/CSE360_Individual-HW/doc/index.html](https://github.com/ideshpa2/CSE360_Individual-HW/blob/main/HW4/doc/index.html)
-
-Link to Junit: 
-
-https://github.com/ideshpa2/CSE360_Individual-HW/blob/main/HW4/src/application/StaffHomePageTestPage.java 
-
