@@ -58,8 +58,6 @@ Application Source Code:
 
 - adminDeleteTestPage.java - Automated test cases for verifying user deletion functionality.
 
-Additional Deliverables in the Repository
-
 databaseHelper Source Code: 
 
 - databaseHelper.java - SQL repository that stored all of the necessary data within tables and allowed us to get and retrieve this data whenever necessary
